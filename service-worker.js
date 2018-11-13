@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-Hair-Salon/precache-manifest.5fd4cf4d22c66ab9380ffa3b528f94c5.js"
+  "/React-Hair-Salon/precache-manifest.44c3057268dd3f701ac7a2c3d144f3c3.js"
 );
 
 workbox.clientsClaim();
