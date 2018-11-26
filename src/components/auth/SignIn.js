@@ -63,4 +63,8 @@ const mapDispatchToProps = (dispatch) => {
 //aby uzyc z akcji z kreatora akcji
 
 
+//Zwraca obiekt do którego chcemy dołączyć uwerzytelnianie, ponowne użycie redirect chroni przed obejciem "if(!auth.uid)" z pliku Dashboard
+
+
+
 export default connect(mapStateToProps, mapDispatchToProps)(SignIn)
