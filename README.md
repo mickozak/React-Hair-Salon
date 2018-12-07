@@ -5,7 +5,7 @@ An application in which a logged-in user can add training. The application allow
 Used.:
 
 - HTML,
-- CSS,,
+- CSS,
 - JavaScript,
 - React,
 - Redux,
