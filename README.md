@@ -13,4 +13,4 @@ Used.:
 - Moment,
 - Materlialize CSS.
 
-Link.: https://mickozak.github.io/React-Education-Laboratory/
+Link.: https://mickozak.github.io/React-Hair-Salon/
