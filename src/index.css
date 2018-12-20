@@ -11,9 +11,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: url(/img/hair.jpeg) no-repeat;
-  background-size: 100%;
-  background-position: bottom;
-  min-height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
